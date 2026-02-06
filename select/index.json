@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "通心障害",
+  "base_artist": "なるみや",
+  "createdAt": "2026-02-06T20:09:47.349889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "通心障害",
+      "artist": "なるみや",
+      "has_synced": true,
+      "path": "select/01_通心障害_なるみや.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "通心障害 - なるみや",
+      "artist": "Narumiya",
+      "has_synced": true,
+      "path": "select/02_通心障害_-_なるみや_Narumiya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "通心障害",
+      "artist": "なるみや",
+      "has_synced": false,
+      "path": "select/pl_01_通心障害_なるみや.txt"
+    }
+  ]
+}
